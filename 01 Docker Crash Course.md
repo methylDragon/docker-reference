@@ -53,7 +53,7 @@ Lots of personal notes and stuff compiled from all over the internet!
 
 ## 1. Introduction <a name="1"></a>
 
-![img](../../Docs%20and%20Learning/docker-reference/assets/whale20logo332_5.png)
+![img](assets/whale20logo332_5.png)
 
 > Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 >
